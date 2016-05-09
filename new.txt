@@ -1,2 +1,7 @@
 this is the first file in a repo
-new line added
+new line added 
+sc
+aca
+cac
+acsa
+
