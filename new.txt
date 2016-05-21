@@ -1,2 +1,9 @@
 this is the first file in a repo
+<<<<<<< HEAD
 new line added
+=======
+change1 from vda
+change2 from VDA from master only
+
+change in new.txt fromnew_brach
+>>>>>>> 595b41049f06d8bc2e8b777a3fec7c0ad71e7a73
