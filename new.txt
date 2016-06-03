@@ -1,12 +1,13 @@
 this is the first file in a repo
-<<<<<<< HEAD
 new line added 
 sc
 aca
 cac
 acsa
 
-=======
 change1 from vda
 change2 from VDA from master only
->>>>>>> 501a049ddf52724e1272413d56fbc226db074107
+change1 from vda
+change2 from VDA from master only
+
+change in new.txt fromnew_brach
